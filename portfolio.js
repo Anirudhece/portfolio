@@ -146,7 +146,7 @@ export const projects = [
     name: "Netflix Clone",
     desc: "Get hands-on experience in technical skills with Technota",
     github: "https://netflix-clone-onreact.netlify.app/",
-    link: "https://pricereum.netlify.app/",
+    link: "https://netflix-clone-onreact.netlify.app/",
   },
 ];
 
