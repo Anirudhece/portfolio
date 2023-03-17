@@ -6,11 +6,9 @@ export const greetings = {
   description:
     "I'm passionate frontend web developer having an experience of web applications with HTML, CSS, Javascript, React.js.",
 
-  // to update***********
   resumeLink:
-    "https://docs.google.com/document/d/1_4RIfbyt4FFHW_bNplnoINQr01neTu7XDeeUlT_2O_k/edit?usp=sharing",
+    "https://drive.google.com/file/d/1k256KEhGVNqdiwDo1l__XCcnic538gHV/view?usp=sharing",
 };
-// to update***********
 
 export const openSource = {
   githubUserName: "Anirudhece",
@@ -144,7 +142,7 @@ export const projects = [
   },
   {
     name: "Netflix Clone",
-    desc: "Get hands-on experience in technical skills with Technota",
+    desc: "Netflix clone using The Movie Data Base API",
     github: "https://netflix-clone-onreact.netlify.app/",
     link: "https://netflix-clone-onreact.netlify.app/",
   },
