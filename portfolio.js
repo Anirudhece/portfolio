@@ -17,7 +17,7 @@ export const contact = {};
 
 export const socialLinks = {
   linkedin: "https://www.linkedin.com/in/anirudh-jain-b67918213/",
-  github: "https://github.com/1hanzla100",
+  github: "https://github.com/Anirudhece",
   twitter: "https://twitter.com/Anirudh02814",
 };
 
