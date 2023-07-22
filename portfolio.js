@@ -7,7 +7,7 @@ export const greetings = {
     "I'm passionate frontend web developer having an experience of web applications with HTML, CSS, Javascript, React.js.",
 
   resumeLink:
-    "https://drive.google.com/file/d/1k256KEhGVNqdiwDo1l__XCcnic538gHV/view?usp=sharing",
+    "https://drive.google.com/file/d/1l0hi7JOZFglxc-er-sZCnKUQ5XnhUOzW/view?usp=sharing",
 };
 
 export const openSource = {
@@ -59,6 +59,10 @@ export const skillsSection = {
         {
           skillName: "Yarn",
           fontAwesomeClassname: "logos:yarn",
+        },
+        {
+          skillName: "Redux",
+          fontAwesomeClassname: "logos:redux",
         },
       ],
     },
