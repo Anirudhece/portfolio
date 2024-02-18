@@ -164,8 +164,8 @@ export const seoData = {
   title: "Anirudh jain",
   description: "A passionate Web Developer.",
   author: "Anirudh jain",
-  image: "https://avatars3.githubusercontent.com/u/59178380?v=4",
-  url: "https://developer-portfolio-1hanzla100.vercel.app",
+  image: "https://media.licdn.com/dms/image/D4D35AQGpWz2eN3K7Aw/profile-framedphoto-shrink_400_400/0/1693414625125?e=1708884000&v=beta&t=6hlf7QbHvwLcvzS2ycSa_Wuy8qLvVtky9fCaYceSv3U",
+  url: "https://anirudhport.netlify.app/",
   keywords: [
     "Anirudh",
     "Anirudh Jain",
